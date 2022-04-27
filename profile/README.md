@@ -1,5 +1,5 @@
 
-![logo](../images/eftech-logo.png)
+![logo](https://github.com/eftech-open/.github/blob/master/images/eftech-logo.png)
 
 ## About as
 
