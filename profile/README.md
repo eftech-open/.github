@@ -1,5 +1,5 @@
 
-<img src="../images/eftech-logo.png" width="900" >
+![logo](../images/eftech-logo.png)
 
 ## About as
 
