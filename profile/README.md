@@ -3,7 +3,7 @@
 
 ## About as
 
-Effective Technologies a developer of software and IT solutions for business.
+Effective Technologies is a developer of software and IT solutions for business.
 
 For over 20 years we have been successfully developing:
 
